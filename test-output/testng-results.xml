@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44" started-at="2017-11-20T22:31:28Z" finished-at="2017-11-20T22:31:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44" started-at="2017-11-20T22:31:28Z" finished-at="2017-11-20T22:31:28Z">
+      <class name="MavenPrintMsgGit.MavenPrintMsgGitLearning.AppTest">
+        <test-method status="PASS" signature="testApp()" name="testApp" duration-ms="24" started-at="2017-11-20T22:31:28Z" finished-at="2017-11-20T22:31:28Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
